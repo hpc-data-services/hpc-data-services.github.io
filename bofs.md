@@ -28,6 +28,27 @@ Date                         | Time              | Location
 ---------------------------- | ------------------| --------------
 Tuesday, November 19th 2019  | 5:15pm - 6:45pm   | *501/502*
 
+### Agenda
+
+* Introduction to Data Services in HPC and BoF directions (Jerome Soumagne)
+* Panel Discussion (moderator: Rob Ross)
+  * Hardware and Facilities: trends and challenges
+  * Software: development, test, scaling, maintenance challenges
+  * User/developer Adoption: barriers and challenges
+  * Vision and long term directions
+
+Q&A with the panelists and experience sharing are very much encouraged!
+
+### Panelists
+
+Will be leading the panel discussion and provide each their own perspective
+on HPC data services:
+* André Brinkmann (JGU)
+* Stéphane Ethier (PPPL)
+* Paolo Faraboschi (HPE)
+* Glenn Lockwood (NERSC)
+* Carlos Maltzahn (UC Santa Cruz)
+
 ### Organization
 
 The BoF is organized by:
@@ -38,9 +59,5 @@ The BoF is organized by:
 * Manish Parashar (Rutgers University)
 * Robert B. Ross (Argonne National Laboratory)
 
-### Agenda
-
-TBD
-
-[SC19-bof]: https://sc19.supercomputing.org/
+[SC19-bof]: https://sc19.supercomputing.org/presentation/?id=bof171&sess=sess286
 
