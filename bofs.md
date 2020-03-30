@@ -30,6 +30,8 @@ Tuesday, November 19th 2019  | 5:15pm - 6:45pm   | *501/502*
 
 ### Agenda
 
+Slides from the BoF are available at this [link][SC19-bof-slides].
+
 * Introduction to Data Services in HPC and BoF directions (Jerome Soumagne)
 * Panel Discussion (moderator: Rob Ross)
   * Hardware and Facilities: trends and challenges
@@ -60,4 +62,5 @@ The BoF is organized by:
 * Robert B. Ross (Argonne National Laboratory)
 
 [SC19-bof]: https://sc19.supercomputing.org/presentation/?id=bof171&sess=sess286
+[SC19-bof-slides]: /assets/SC19_BOF_dataservices.pdf
 
